@@ -14,7 +14,7 @@ button{
     font-family: sans-serif;
     color: aliceblue;
     padding: 1em 3em;
-    font-size: 2em;
+    font-size: 1.25em;
     background: red;
     animation: myColor 3s infinite;
     border-radius: 10px;

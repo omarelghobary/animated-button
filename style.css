@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+button{
+    font-family: sans-serif;
+    color: aliceblue;
+    padding: 1em 3em;
+    font-size: 2em;
+    background: red;
+    animation: myColor 3s infinite;
+    border-radius: 10px;
+}
+
+@keyframes myColor {
+    from{background-color: rgb(209, 121, 20);}
+    to {background-color: rgb(89, 0, 255);}
+}

@@ -13,8 +13,8 @@
 button{
     font-family: sans-serif;
     color: aliceblue;
-    padding: 1em 3em;
-    font-size: 1.25em;
+    padding: .1em 1em;
+    font-size: 4em;
     background: red;
     animation: myColor 3s infinite;
     border-radius: 10px;
